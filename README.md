@@ -1,6 +1,6 @@
-# Documentation
+# Documentation repository
 
-Test repository for documentation repository.
+Test repository for documentation publishing.
 
 **Content**
 
