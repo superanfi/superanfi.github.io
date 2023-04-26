@@ -2,7 +2,11 @@
 
 Test repository for documentation publishing.
 
-**Content**
+**About the company**
 
 * [About](about/this-documentation.md)
+
+**Products**
+
+* [Products](products/products.md)
 
