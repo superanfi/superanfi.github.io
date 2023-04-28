@@ -1,0 +1,3 @@
+# Installation and Configuration
+
+This article explains how to install and configura Product X...
