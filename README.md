@@ -1,6 +1,6 @@
 # Documentation
 
-Content publishing test
+Repository for test of content publishing.
 
 **About Product X**
 
