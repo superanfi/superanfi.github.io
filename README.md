@@ -1,12 +1,13 @@
-# Documentation repository
+# Documentation
 
 Test repository for documentation publishing.
 
-**About the company**
+**About Product X**
 
-* [About](about/this-documentation.md)
+* [About Product X](getting-started/about-product-x.md)
+* [Getting Started](getting-started/getting-started.md)
 
-**Products**
+**Features**
 
-* [Products](products/products.md)
-
+* [Feature A](features/feature-a.md)
+* [Feature B](features/feature-b.md)
