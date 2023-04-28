@@ -2,7 +2,7 @@
 
 Explore and find out more!
 
-## About Product X
+## Introduction
 
 * [About Product X](getting-started/about-product-x.md)
 * [Getting Started](getting-started/getting-started.md)
