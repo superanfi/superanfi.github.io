@@ -1,6 +1,6 @@
 # Documentation
 
-Test repository for documentation publishing.
+Content publishing test
 
 **About Product X**
 
