@@ -1,4 +1,4 @@
-# About Product X
+# Getting Started
 
 This documentation describes the...
 
