@@ -1,0 +1,3 @@
+# About Product X
+
+This article provides an introduction to the Product X platform...
